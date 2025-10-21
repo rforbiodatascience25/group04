@@ -1,26 +1,19 @@
 ---
 title: "group04_document"
-format: html
+format:
+  html:
+    embed-resources: true
 editor: visual
 ---
 
-## Quarto
+## s253700
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+s
 
-## Running Code
+## s253696
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+## s253699
 
-```{r}
-1 + 1
-```
+## s253694
 
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## s253704
