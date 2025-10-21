@@ -28,13 +28,21 @@ Aquest grup és el millor del món, anem molt avançats i estem treballant tots 
 ```
 
 ## s253699
+
 Hi! I am Diego.
+
 ```{r}
 resta <- 7 - 2
 resta
 ```
 
 ## s253694
+
+Hello, I'm Beatriz
+
+```{r}
+x<- 3+3
+```
 
 ## s253704
 
