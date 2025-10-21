@@ -8,7 +8,12 @@ editor: visual
 
 ## s253700
 
-s
+Hello, I am the Team Captain Sol Escamilla Torres. This is my first update of this groupal project.
+
+```{r}
+x <- 2 + 2
+print(x)
+```
 
 ## s253696
 
