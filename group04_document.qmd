@@ -28,7 +28,9 @@ Aquest grup és el millor del món, anem molt avançats i estem treballant tots 
 ```
 
 ## s253699
+
 Hi! I am Diego.
+
 ```{r}
 resta <- 7 - 2
 resta
