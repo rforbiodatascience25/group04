@@ -48,6 +48,14 @@ resta <- 7 - 2
 resta
 ```
 
+#### New Feature 
+
+This is a new feature
+
+```{r}
+s <- 253 + 699
+```
+
 ## s253694
 
 Hello, I'm Beatriz
