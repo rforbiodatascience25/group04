@@ -44,6 +44,14 @@ Hello, I'm Beatriz
 x<- 3+3
 ```
 
+##### New feature
+
+This is my first time using a branch
+
+```{r}
+y<-2+2
+```
+
 ## s253704
 
 ```{r}
