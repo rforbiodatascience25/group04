@@ -8,9 +8,24 @@ editor: visual
 
 ## s253700
 
-s
+Hello, I am the Team Captain Sol Escamilla Torres. This is my first update of this groupal project.
+
+```{r}
+x <- 2 + 2
+print(x)
+```
 
 ## s253696
+
+Aquest grup és el millor del món, anem molt avançats i estem treballant tots molt
+
+```{r}
+
+```
+
+```{r}
+
+```
 
 ## s253699
 Hi! I am Diego.
