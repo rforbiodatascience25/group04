@@ -15,6 +15,10 @@ x <- 2 + 2
 print(x)
 ```
 
+##### New feature
+
+This is a new updated part created after branching the main workflow.
+
 ## s253696
 
 Aquest grup és el millor del món, anem molt avançats i estem treballant tots molt
