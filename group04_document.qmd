@@ -12,6 +12,16 @@ s
 
 ## s253696
 
+Aquest grup és el millor del món, anem molt avançats i estem treballant tots molt
+
+```{r}
+
+```
+
+```{r}
+
+```
+
 ## s253699
 
 ## s253694
