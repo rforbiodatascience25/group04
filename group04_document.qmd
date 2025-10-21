@@ -31,6 +31,14 @@ Aquest grup és el millor del món, anem molt avançats i estem treballant tots 
 
 ```
 
+##### New feature
+
+My name is Eric! :)
+
+```{r}
+2+2
+```
+
 ## s253699
 
 Hi! I am Diego.
