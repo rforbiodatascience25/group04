@@ -48,7 +48,7 @@ resta <- 7 - 2
 resta
 ```
 
-#### New Feature 
+#### New Feature
 
 This is a new feature
 
